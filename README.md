@@ -22,6 +22,9 @@ TODO
 ### [PSClassicTool](https://github.com/elierodrigue/PSClassicTool) 1.3
 TODO
 
+### [FAT32 Format](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm)
+Tool for formatting your USB drive to FAT32 on Windows systems that do not offer that option any more (Windows 8, 10).
+
 ## Resources
 
 ### [libretro database](https://github.com/libretro/libretro-database)
