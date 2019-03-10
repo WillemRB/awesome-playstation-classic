@@ -10,8 +10,9 @@ TODO
 ### [AutoBleem](https://github.com/screemerpl/cbleemsync) 0.5.1
 TODO
 
-### [RetroBoot](https://drive.google.com/file/d/15Ax4eCZyd0P3QOYsHtkOg_oXkNzv3gkX/view?usp=sharing) 0.4.1
-Boots directly into RetroArch. It does not have an actual homepage so the download link is provided here.
+### [RetroBoot](https://drive.google.com/open?id=1UCwoywT5eBqVIHVgNgQoz8xoT19sn1x5) 0.5
+Boots directly into RetroArch. Comes with multiple RetroArch cores.
+It does not have an actual homepage so the download link is provided here.
 
 ## Tools
 Here are tools that help you with specific tasks, like managing your games.
