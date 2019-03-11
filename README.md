@@ -10,7 +10,7 @@ TODO
 ### [AutoBleem](https://github.com/screemerpl/cbleemsync) 0.5.1
 TODO
 
-### [RetroBoot](https://drive.google.com/open?id=1UCwoywT5eBqVIHVgNgQoz8xoT19sn1x5) 0.5
+### [RetroBoot](https://drive.google.com/open?id=1-0dIKmmeC9WBpHwIvpyUheqmyJcyTaXd) 0.5.5
 Boots directly into RetroArch. Comes with multiple RetroArch cores.
 It does not have an actual homepage so the download link is provided here.
 
