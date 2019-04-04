@@ -7,10 +7,10 @@ This section contains the packages that are used to actually mod you Playstation
 ### [BleemSync](https://github.com/pathartl/BleemSync) 1.0.1
 TODO
 
-### [AutoBleem](https://github.com/screemerpl/cbleemsync) 0.5.1
+### [AutoBleem](https://github.com/screemerpl/cbleemsync) 0.6.0-beta1
 TODO
 
-### [RetroBoot](https://drive.google.com/open?id=1-0dIKmmeC9WBpHwIvpyUheqmyJcyTaXd) 0.5.5
+### [RetroBoot](https://drive.google.com/open?id=14huBT7KOfcw6JA5icfi3jxzQxSvtFF6F) 0.7.1
 Boots directly into RetroArch. Comes with multiple RetroArch cores.
 It does not have an actual homepage so the download link is provided here.
 
