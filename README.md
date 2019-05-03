@@ -7,18 +7,22 @@ This section contains the packages that are used to actually mod you Playstation
 ### [BleemSync](https://github.com/pathartl/BleemSync) 1.0.1
 TODO
 
-### [AutoBleem](https://github.com/screemerpl/cbleemsync) 0.6.0-beta1
+### [AutoBleem](https://github.com/screemerpl/cbleemsync) 0.6.0-beta2
 TODO
 
-### [RetroBoot](https://drive.google.com/open?id=14huBT7KOfcw6JA5icfi3jxzQxSvtFF6F) 0.7.1
+A [RetroBoot addon](https://drive.google.com/open?id=1GcaX62ZrOlSwJUKsutziPvogGQNs_fhZ) for AutoBleem is also available.
+
+### [RetroBoot](https://drive.google.com/open?id=1g_VqK48iodmIxlQ3__cF2V6GR1pjJ8yS) 0.7.5b
 Boots directly into RetroArch. Comes with multiple RetroArch cores.
 It does not have an actual homepage so the download link is provided here.
+
+An archive of previous releases can also be found on [Google Drive](https://drive.google.com/drive/folders/1WafO7d9th03PLPdxJnhOEHyxkwfHgYvZ?usp=sharing).
 
 ## Tools
 Here are tools that help you with specific tasks, like managing your games.
 
-### [pbPSCReAlpha](https://github.com/pascl/pbPSCReAlpha) 1.1
-TODO
+### [pbPSCReAlpha](https://github.com/pascl/pbPSCReAlpha) 1.11
+Tool to use with *PSC*lassic in order to view, edit and *Re*-sort *Alpha*betically the contents of an USB drive used with BleemSync.
 
 ### [PSClassicTool](https://github.com/elierodrigue/PSClassicTool) 1.3
 TODO
@@ -29,6 +33,7 @@ Tool for formatting your USB drive to FAT32 on Windows systems that do not offer
 ## Resources
 
 ### [libretro database](https://github.com/libretro/libretro-database)
+Repository containing cheatcode files, content data files, etc.
 
 ## Links
 * [ModMyClassic](https://modmyclassic.com/)
