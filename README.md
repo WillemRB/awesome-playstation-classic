@@ -10,9 +10,9 @@ TODO
 ### [AutoBleem](https://github.com/screemerpl/cbleemsync) 0.6.0-beta2
 TODO
 
-A [RetroBoot addon](https://drive.google.com/open?id=1GcaX62ZrOlSwJUKsutziPvogGQNs_fhZ) for AutoBleem is also available.
+A [RetroBoot addon](https://drive.google.com/open?id=17lPkw1Wjr0jr8qs11Inr-IC_rzT949i6) for AutoBleem is also available.
 
-### [RetroBoot](https://drive.google.com/open?id=1g_VqK48iodmIxlQ3__cF2V6GR1pjJ8yS) 0.7.5b
+### [RetroBoot](https://drive.google.com/open?id=1VGPQdErDKPcyLRlVJQNEDUNOC-5e1cPS) 0.8.0b
 Boots directly into RetroArch. Comes with multiple RetroArch cores.
 It does not have an actual homepage so the download link is provided here.
 
