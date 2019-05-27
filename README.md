@@ -4,8 +4,10 @@ This page contains a list of tools to mod your Playstation Classic.
 ## Modding
 This section contains the packages that are used to actually mod you Playstation Classic.
 
-### [BleemSync](https://github.com/pathartl/BleemSync) 1.0.1
+### [BleemSync](https://modmyclassic.com/bleemsync/) 1.1.0
 BleemSync is a relatively safe way to add games to your PlayStation Classic.
+
+Source can be found [here](https://github.com/pathartl/BleemSync) but isn't where you get new releases from.
 
 ### [AutoBleem](https://github.com/screemerpl/cbleemsync) 0.6.0-beta2
 AutoBleem is a tool to make your PlayStation Classic more usefull. It is relatively safe way to add games , change look and feel, change advanced configuration of your mini console.
