@@ -12,9 +12,9 @@ Source can be found [here](https://github.com/pathartl/BleemSync) but isn't wher
 ### [AutoBleem](https://github.com/screemerpl/cbleemsync) 0.6.0-beta2
 AutoBleem is a tool to make your PlayStation Classic more usefull. It is relatively safe way to add games , change look and feel, change advanced configuration of your mini console.
 
-A [RetroBoot addon](https://drive.google.com/open?id=17lPkw1Wjr0jr8qs11Inr-IC_rzT949i6) for AutoBleem is also available.
+A [RetroBoot addon](https://drive.google.com/open?id=1YPCb5pBKY-EZMunGd8odU0MU7xvojFjP) for AutoBleem is also available.
 
-### [RetroBoot](https://drive.google.com/open?id=1VGPQdErDKPcyLRlVJQNEDUNOC-5e1cPS) 0.8.0b
+### [RetroBoot](https://drive.google.com/open?id=171FUEh2qWuKk_st-ddwRGncEBGSAt-K8) 0.9.0
 Boots directly into RetroArch. Comes with multiple RetroArch cores.
 It does not have an actual homepage so the download link is provided here.
 
