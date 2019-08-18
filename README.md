@@ -23,7 +23,7 @@ An archive of previous releases can also be found on [Google Drive](https://driv
 ## Tools
 Here are tools that help you with specific tasks, like managing your games.
 
-### [pbPSCReAlpha](https://github.com/pascl/pbPSCReAlpha) 1.3
+### [pbPSCReAlpha](https://github.com/pascl/pbPSCReAlpha) 1.4
 Tool to use with *PSC*lassic in order to view, edit and *Re*-sort *Alpha*betically the contents of an USB drive used with BleemSync.
 
 ### [PSClassicTool](https://github.com/elierodrigue/PSClassicTool) 1.3
