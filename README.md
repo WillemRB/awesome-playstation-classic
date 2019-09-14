@@ -4,7 +4,7 @@ This page contains a list of tools to mod your Playstation Classic.
 ## Modding
 This section contains the packages that are used to actually mod you Playstation Classic.
 
-### [BleemSync](https://modmyclassic.com/bleemsync/) 1.1.0
+### [BleemSync](https://modmyclassic.com/bleemsync/) 1.2.0
 BleemSync is a relatively safe way to add games to your PlayStation Classic.
 
 Source can be found [here](https://github.com/pathartl/BleemSync) but isn't where you get new releases from.
