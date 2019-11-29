@@ -14,7 +14,7 @@ AutoBleem is a tool to make your PlayStation Classic more usefull. It is relativ
 
 A [RetroBoot addon](https://drive.google.com/open?id=10eHLDwBr4IXUPhvkX6EWaor8h4amUadK) for AutoBleem is also available.
 
-### [RetroBoot](https://drive.google.com/open?id=1Bv23T4xbCBzHUZr5AbaXGS5IiQybWhnh) 0.10.0
+### [RetroBoot](https://drive.google.com/open?id=1Bv23T4xbCBzHUZr5AbaXGS5IiQybWhnh) 0.10.1
 Boots directly into RetroArch. Comes with multiple RetroArch cores.
 It does not have an actual homepage so the download link is provided here.
 
