@@ -26,8 +26,8 @@ An archive of previous releases can also be found on [Google Drive](https://driv
 ## Tools
 Here are tools that help you with specific tasks, like managing your games.
 
-### [pbPSCReAlpha](https://github.com/pascl/pbPSCReAlpha) 1.6
-Tool to use with *PSC*lassic in order to view, edit and *Re*-sort *Alpha*betically the contents of an USB drive used with BleemSync.
+### [pbPSCReAlpha](https://github.com/pascl/pbPSCReAlpha) 1.71
+A little software to use with *PSC*lassic in order to view, edit and *Re*-sort *Alpha*betically the contents of an USB drive used with BleemSync or AutoBleem. Plug your USB drive on your computer to add/edit/delete games with this app.
 
 ### [PSClassicTool](https://github.com/elierodrigue/PSClassicTool) 1.3
 TODO
