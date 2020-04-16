@@ -9,7 +9,7 @@ BleemSync is a relatively safe way to add games to your PlayStation Classic.
 
 Source can be found [here](https://github.com/pathartl/BleemSync) but isn't where you get new releases from.
 
-### [Project ERIS](https://modmyclassic.com/project-eris-install) 0.9-prerelease
+### [Project ERIS](https://modmyclassic.com/project-eris-install) 0.9.5
 Project ERIS is based on BleemSync 1.2/1.3 and underwent dramatic refactoring and cleanup. (Estimated about 80% of the scripts were refactored!) Project ERIS comes with a ton of new features, fixes, optimisations, ports, emulators, and much more!
 
 ### [AutoBleem](https://github.com/screemerpl/cbleemsync) 0.8.5
