@@ -15,7 +15,7 @@ A [RetroBoot addon](https://drive.google.com/open?id=10eHLDwBr4IXUPhvkX6EWaor8h4
 
 The source code for **AutoBleem** can be found [https://github.com/screemerpl/cbleemsync](here).
 
-### [RetroBoot](https://drive.google.com/open?id=1Bv23T4xbCBzHUZr5AbaXGS5IiQybWhnh) 0.10.1
+### [RetroBoot](https://www.reddit.com/r/PlaystationClassic/comments/g8ht0y/release_retroboot_11_the_lightweight_alternative/) 1.1
 Boots directly into RetroArch. Comes with multiple RetroArch cores.
 It does not have an actual homepage so the download link is provided here.
 
