@@ -4,13 +4,16 @@ This page contains a list of tools to mod your Playstation Classic.
 ## Modding
 This section contains the packages that are used to actually mod you Playstation Classic.
 
-### [Project ERIS](https://modmyclassic.com/project-eris-install) 0.9.5
+### [Project ERIS](https://modmyclassic.com/project-eris/) 0.9.5
 **Project ERIS** is based on **BleemSync** 1.2/1.3 and underwent dramatic refactoring and cleanup. (Estimated about 80% of the scripts were refactored!) **Project ERIS** comes with a ton of new features, fixes, optimisations, ports, emulators, and much more!
 
-### [AutoBleem](https://github.com/screemerpl/cbleemsync) 0.8.5
+### [AutoBleem](https://www.autobleem.tk/) 0.9.0
+
 **AutoBleem** is a tool to make your PlayStation Classic more usefull. It is relatively safe way to add games , change look and feel, change advanced configuration of your mini console.
 
 A [RetroBoot addon](https://drive.google.com/open?id=10eHLDwBr4IXUPhvkX6EWaor8h4amUadK) for **AutoBleem** is also available.
+
+The source code for **AutoBleem** can be found [https://github.com/screemerpl/cbleemsync](here).
 
 ### [RetroBoot](https://drive.google.com/open?id=1Bv23T4xbCBzHUZr5AbaXGS5IiQybWhnh) 0.10.1
 Boots directly into RetroArch. Comes with multiple RetroArch cores.
