@@ -13,7 +13,7 @@ This section contains the packages that are used to actually mod you Playstation
 
 A [RetroBoot addon](https://drive.google.com/open?id=10eHLDwBr4IXUPhvkX6EWaor8h4amUadK) for **AutoBleem** is also available.
 
-The source code for **AutoBleem** can be found [https://github.com/screemerpl/cbleemsync](here).
+The source code for **AutoBleem** can be found at https://github.com/screemerpl/cbleemsync.
 
 ### [RetroBoot](https://www.reddit.com/r/PlaystationClassic/comments/ikhv3v/retroboot_12_the_lightweight_alternative/) 1.2
 Boots directly into RetroArch. Comes with multiple RetroArch cores.
