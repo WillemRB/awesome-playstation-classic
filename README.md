@@ -4,10 +4,10 @@ This page contains a list of tools to mod your Playstation Classic.
 ## Modding
 This section contains the packages that are used to actually mod you Playstation Classic.
 
-### [Project ERIS](https://modmyclassic.com/project-eris/) 1.0.0
+### [Project ERIS](https://modmyclassic.com/) 1.0.0
 **Project ERIS** is based on **BleemSync** 1.2/1.3 and underwent dramatic refactoring and cleanup. (Estimated about 80% of the scripts were refactored!) **Project ERIS** comes with a ton of new features, fixes, optimisations, ports, emulators, and much more!
 
-### [AutoBleem](https://www.autobleem.tk/) 0.9.0
+### [AutoBleem](https://github.com/autobleem/AutoBleem) 0.9.0
 
 **AutoBleem** is a tool to make your PlayStation Classic more usefull. It is relatively safe way to add games , change look and feel, change advanced configuration of your mini console.
 
@@ -15,18 +15,26 @@ A [RetroBoot addon](https://drive.google.com/open?id=10eHLDwBr4IXUPhvkX6EWaor8h4
 
 The source code for **AutoBleem** can be found at https://github.com/screemerpl/cbleemsync.
 
-### [RetroBoot](https://www.reddit.com/r/PlaystationClassic/comments/ikhv3v/retroboot_12_the_lightweight_alternative/) 1.2
+### [RetroBoot](https://www.reddit.com/r/PlaystationClassic/comments/ikhv3v/retroboot_12_the_lightweight_alternative/) 1.2.1
 Boots directly into RetroArch. Comes with multiple RetroArch cores.
 It does not have an actual homepage so the download link is provided here.
 
 An archive of previous releases can also be found on [Google Drive](https://drive.google.com/drive/folders/1WafO7d9th03PLPdxJnhOEHyxkwfHgYvZ?usp=sharing).
 
-### [BleemSync](https://modmyclassic.com/bleemsync/) 1.2.0
+### [BleemSync](https://modmyclassic.com/) 1.2.0
 **BleemSync** is a relatively safe way to add games to your PlayStation Classic.
 
 Source can be found [here](https://github.com/pathartl/BleemSync) but isn't where you get new releases from.
 
 **Bleemsync** has been retired in favor of **Project ERIS**. No more updates are expected.
+
+## Addons
+
+### [PSC Store](https://github.com/hampter-mods/pscstore-release/releases) 1.8.0
+**PSC Store** brings the PS Classic back into the modern age as a clean hub for managing your PS1 library on Project Eris. It focuses on keeping your library under your control: USB and Internal game management, physical-disc import/play workflows, saves, playtime, updates, and optional external-source downloads all live inside one console-friendly interface.
+
+### [Weston](https://gbatemp.net/threads/release-weston-6-0-0-enabler-installer-for-playstation-classic.683101/) 6.0.0
+This updates the Stock PSC Weston from 1.11.0 to 6.0.0. The Stock Weston uses wl_shell which has long been deprecated. This update adds xdg-shell support which opens the door for newer Apps such as RetroArch 1.22.2 and SDL3 to work.
 
 ## Tools
 Here are tools that help you with specific tasks, like managing your games.
